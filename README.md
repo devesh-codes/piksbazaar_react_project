@@ -1,12 +1,23 @@
-# React + Vite
+PiksBazaar is a creative marketplace platform where users can buy and sell digital design assets like images, vectors, PSD files, and AI files. Whether you're a designer looking for high-quality resources or a creator wanting to monetize your work, PiksBazaar makes it simple and efficient.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎨 Key Features
+Asset Marketplace
+Browse and purchase a wide variety of digital assets including images, vector graphics, PSD templates, and AI design files.
 
-Currently, two official plugins are available:
+Contributor Dashboard
+A fully functional dashboard for designers to upload, manage, and sell their creative assets. Monitor your earnings, sales, and submissions in one place.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+User-Friendly Interface
+Clean and intuitive UI for both buyers and contributors to enhance user experience.
 
-## Expanding the ESLint configuration
+Secure & Scalable
+Designed with performance and security in mind to handle a growing base of creative professionals and buyers.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Perfect For
+Freelance Designers
+
+Agencies
+
+Creative Entrepreneurs
+
+Anyone looking to monetize design resources
